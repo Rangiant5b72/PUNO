@@ -6,7 +6,7 @@ Official implementation of **PUNO: A Neural Operator Framework for Point Cloud U
 PUNO is a simple and effective neural operator based framework for point cloud upsampling.  
 This repository provides the model implementation, pretrained checkpoints, and runnable examples for quick testing and reproduction.
 
-## Highlights
+## Introduction
 
 - Neural operator framework for point cloud upsampling
 - Clean and lightweight codebase
@@ -146,5 +146,3 @@ If you find this project useful, please consider citing our AAAI 2026 paper:
   year={2026}
 }
 ```
-
-> Please update the BibTeX entry with the final author list and publication information.
