@@ -1,4 +1,3 @@
-````markdown
 # PUNO
 
 Official implementation of **PUNO: A Neural Operator Framework for Point Cloud Upsampling**  
@@ -28,7 +27,6 @@ We recommend creating a clean conda environment with Python 3.8.
 conda create -n puno python=3.8
 conda activate puno
 ```
-````
 
 Install PyTorch and other Python dependencies:
 
