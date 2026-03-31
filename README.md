@@ -27,6 +27,7 @@ We recommend creating a clean conda environment with Python 3.8.
 ```bash
 conda create -n puno python=3.8
 conda activate puno
+```
 ````
 
 Install PyTorch and other Python dependencies:
@@ -149,5 +150,3 @@ If you find this project useful, please consider citing our AAAI 2026 paper:
 ```
 
 > Please update the BibTeX entry with the final author list and publication information.
-
-````
